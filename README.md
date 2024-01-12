@@ -7,7 +7,11 @@ I'm currently working as a **Front End Software Engineer**.
 ## My Stack
 
 - React
-- React Native
+- Angular
+- Java
+- Python
+- Power BI
+- Power Apps
 - Javascript/Typescript
 - CSS
 - HTML5
