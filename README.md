@@ -2,17 +2,15 @@
 
 I'm currently working as a **Front End Software Engineer**.
 
-🔭 Always in learning mode, I'm diving deeper into Java Spring Boot, machine learning, Python frameworks, and Node.js/Express.js.
+🔭 Always in learning mode, I'm diving deeper into Java Spring Boot, Python frameworks, and Node.js/Express.js.
 
 ## My Stack
 
-- React
-- Angular
 - Java
 - Python
 - Power BI
 - Power Apps
-- Javascript/Typescript
+- Javascript
 - CSS
 - HTML5
 - Git
