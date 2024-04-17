@@ -9,7 +9,6 @@ I'm currently working as a **Front End Software Engineer**.
 - Java
 - Python
 - Power BI
-- Power Apps
 - Javascript
 - CSS
 - HTML5
