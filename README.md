@@ -16,3 +16,7 @@ I'm currently working as a **Front End Software Engineer**.
 - MongoDB/MySQL
 
 Thanks for visiting my profile! 🚀
+
+## Proyectos En Los Que He Contribuido
+https://github.com/andresMorales1996/gelato-postres-backend
+https://github.com/andresMorales1996/gelatoPostres
